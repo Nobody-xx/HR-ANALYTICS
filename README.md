@@ -1,1 +1,3 @@
 # HR-ANALYTICS
+
+![](dashboard.png)
